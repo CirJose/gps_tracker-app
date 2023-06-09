@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "rekuuser",
+    "password": "postgres",
+    "database": "rekuapp",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "timezone": "-05:00",
+    "dialectOptions": {
+      "dateStrings": true,
+      "typeCast": true,
+      "timezone": "-05:00"
+    }
+  },
+  "test": {
+    "username": "rekuuser",
+    "password": "postgres",
+    "database": "rekuapp",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "timezone": "-05:00",
+    "dialectOptions": {
+      "dateStrings": true,
+      "typeCast": true,
+      "timezone": "-05:00"
+    }
+  },
+  "production": {
+    "username": "rekuuser",
+    "password": "postgres",
+    "database": "rekuapp",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "timezone": "-05:00",
+    "dialectOptions": {
+      "dateStrings": true,
+      "typeCast": true,
+      "timezone": "-05:00"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "app.home.saludo": "Hi, {nombre}!",
+  "app.home.viajes": "{count, plural, =0 {No tienes viajes pendientes} one {Tienes # viaje pendiente} other {Tienes # viajes pendientes}}",
+
+  "app.commons.btn_guardar": "Save",
+  "app.commons.btn_cancelar": "Cancel",
+  "app.commons.btn_cerrar": "Close",
+
+
+  "app.navigation.Language.en":"English",
+  "app.navigation.Language.es":"Spanish",
+  "app.navigation.Language.fr":"French",
+  "app.navigation.Language.idioma":"Language",
+  "app.navigation.Language.region":"Country/Region",
+
+
+  "app.navigation.Header.bienvenido": "Welcome!",
+  "app.navigation.Header.HomeScreen": "Welcome!",
+  "app.navigation.Header.CuentaStack": "My account",
+  "app.navigation.Header.CotizacionStack": "Shippings",
+  "app.navigation.Header.CuentaChoferStack": "Messages",
+  "app.navigation.Header.facturacion": "Bill",
+  "app.navigation.Header.MetodosPagoStack": "Payment",
+  "app.navigation.Header.ayuda": "Help",
+  "app.navigation.Header.LogOut": "Sign Out",
+  "app.navigation.Header.Locale": "Language",
+  "app.navigation.Header.MisViajesStack": "My trip",
+  "app.navigation.Header.ViajesProgramadosStack":"Scheduled trips",
+  "app.navigation.Header.LicitacionesStack":"Auctions",
+
+
+  "app.cuenta.inicio.saludo": "Hi, {nombre}!",
+  "app.cuenta.inicio.sub_saludo": "Here you can change your user data and preferences.",
+  "app.cuenta.inicio.datos_usuario": "User information",
+  "app.cuenta.inicio.sub_datos_usuario": "Change your password, phone number and more",
+  "app.cuenta.inicio.datos_personales": "Personal/Business data",
+  "app.cuenta.inicio.sub_datos_personales": "Edit your RUC, name and more",
+  "app.cuenta.inicio.datos_facturacion": "Billing data",
+  "app.cuenta.inicio.sub_datos_facturacion": "Edit your billing information",
+  "app.cuenta.inicio.preferencias_usuarios": "User preferences",
+  "app.cuenta.inicio.sub_preferencias_usuarios": "Set notifications and preferences",
+
+  "app.cuenta.datos_usuario.titulo":"User information",
+  "app.cuenta.datos_usuario.sub_titulo":"Here you can change your user account information",
+  "app.cuenta.datos_usuario.label_nombre":"Name",
+  "app.cuenta.datos_usuario.label_apellido":"Last Name",
+  "app.cuenta.datos_usuario.label_num_telefono":"Telephone number",
+  "app.cuenta.datos_usuario.label_email":"Email",
+  "app.cuenta.datos_usuario.btn_contrasenia":"Change password",
+
+  "app.cuenta.preferencias.titulo":"User preferences",
+  "app.cuenta.preferencias.notificacion_servicios":"Do you want to receive notifications about our new services?",
+  "app.cuenta.preferencias.notificacion_promociones":"Do you want to receive notifications about our promotions?",
+  "app.cuenta.preferencias.lenguaje":"Choose your language",
+
+
+  "app.cotizacion.TipoCarga.titulo": "1. Load type",
+  "app.cotizacion.TipoCarga.subtitulo": "1. 1. Escoja el tipo de \"Carga Suelta\"",
+  "app.cotizacion.TipoCarga.contenedor": "Container",
+  "app.cotizacion.TipoCarga.cargaSuelta": "Brak bulk",
+  "app.cotizacion.TipoCarga.grua": "Towing",
+  "app.cotizacion.TipoCarga.extrapesados": "Oversize",
+  "app.cotizacion.TipoCarga.maquinaria": "Machinery",
+  "app.cotizacion.TipoCarga.recurrente": "Recurring",
+  "app.cotizacion.TipoCarga.mudanza": "Moving",
+  "app.cotizacion.TipoCarga.cajas": "Box",
+  "app.cotizacion.TipoCarga.palet": "Pallet",
+  "app.cotizacion.TipoCarga.general": "Break Bulk",
+  "app.cotizacion.TipoCarga.bulk": "Bulk",
+  "app.cotizacion.TipoCarga.cantera": "Quarry",
+  "app.cotizacion.TipoCarga.materiales": "Mine",
+  "app.cotizacion.TipoCarga.transferencias": "Transfers",
+  "app.cotizacion.TipoCarga.excavaciones": "Excavations",
+  
+
+
+  "app.cotizacion.TipoServicio.titulo": "2. Service type",
+  "app.cotizacion.TipoServicio.tipoServicio": "Service type",
+  "app.cotizacion.TipoServicio.continuar": "Continue",
+
+
+  "app.cotizacion.Trayectoria.titulo": "2. trajectory",
+  "app.cotizacion.Trayectoria.continuar": "Continue",
+  "app.cotizacion.Trayectoria.origen": "Origin",
+  "app.cotizacion.Trayectoria.destino": "Destination",
+  "app.cotizacion.Trayectoria.buscar": "Search",
+
+
+  "app.metodo_pago.datostarjeta.titulo": "Credit Card"
+}

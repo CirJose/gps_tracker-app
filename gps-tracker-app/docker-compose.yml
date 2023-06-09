@@ -1,0 +1,9 @@
+version: '3'
+services:
+# configuracion docker https://medium.com/@thianlopezz/configuraci%C3%B3n-de-ambiente-de-producci%C3%B3n-para-una-aplicaci%C3%B3n-en-node-js-con-docker-555bb8b91fd8
+  frontend:
+    build:
+      context: .
+      dockerfile: dockerfile
+    ports:
+      - "8080:80"

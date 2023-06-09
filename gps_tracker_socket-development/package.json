@@ -1,0 +1,51 @@
+{
+  "name": "location.io",
+  "version": "0.0.4",
+  "description": "Location.IO provides a common interface to GPS tracking hardware",
+  "engine": "node >= 0.10.5",
+  "keywords": [
+    "gps",
+    "tracker",
+    "location.io",
+    "location.io",
+    "location",
+    "io",
+    "location-io",
+    "GOTOP",
+    "Toppeak",
+    "Xexun",
+    "GlobalSat",
+    "Tk103",
+    "Tl201",
+    "TL206",
+    "tr203",
+    "GPS808",
+    "GPS518"
+  ],
+  "dependencies": {
+    "addTimeout": "git://github.com/alexbirkett/addTimeout.git#master",
+    "async": "0.1.x",
+    "async-foreach": "0.1.x",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "enum": "0.2.x",
+    "hashmap": "0.9.x",
+    "smarter-buffer": "0.0.2"
+  },
+  "devDependencies": {
+    "jshint": "1.1",
+    "tracker-simulator": "git://github.com/alexbirkett/tracker-simulator.git#master",
+    "vows": ">= 0.7.0"
+  },
+  "scripts": {
+    "start": "node -r dotenv/config server.js",
+    "test": "vows test/*test.js protocol/test/*test.js protocol/tk103/test/*test.js protocol/gotop/test/*test.js protocol/gps108watch/test/*test.js protocol/tr203/test/*test.js",
+    "pretest": "node_modules/.bin/jshint index.js connection.js modules.js protocol/ test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexbirkett/location.io.git"
+  },
+  "homepage": "http://location.io",
+  "license": "MIT"
+}

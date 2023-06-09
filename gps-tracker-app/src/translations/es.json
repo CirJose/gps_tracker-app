@@ -1,0 +1,86 @@
+{
+  "app.home.saludo": "¡Hola {nombre}!",
+  "app.home.viajes": "{count, plural, =0 {No tienes viajes pendientes} one {Tienes # viaje pendiente} other {Tienes # viajes pendientes}}",
+  
+
+  "app.commons.btn_guardar": "Guardar",
+  "app.commons.btn_cancelar": "Cancelar",
+  "app.commons.btn_cerrar": "Cerrar",
+
+  "app.navigation.Language.en":"Inglés",
+  "app.navigation.Language.es":"Español",
+  "app.navigation.Language.fr":"Francés",
+  "app.navigation.Language.idioma":"Idioma",
+  "app.navigation.Language.region":"País/Región",
+
+  "app.navigation.Header.bienvenido": "Bienvenido!",
+  "app.navigation.Header.HomeScreen": "Bienvenido!",
+  "app.navigation.Header.CuentaStack": "Mi cuenta",
+  "app.navigation.Header.CotizacionStack": "Mis envios",
+  "app.navigation.Header.CuentaChoferStack": "Mensajes",
+  "app.navigation.Header.facturacion": "Facturación",
+  "app.navigation.Header.metodosPago": "Métodos de pago",
+  "app.navigation.Header.ayuda": "Ayuda",
+  "app.navigation.Header.LogOut": "Cerrar Sesión",
+  "app.navigation.Header.Locale": "Idioma",
+  "app.navigation.Header.MisViajesStack": "Mis viajes",
+  "app.navigation.Header.ViajesProgramadosStack":"Viajes Programados",
+  "app.navigation.Header.LicitacionesStack":"Licitaciones",
+
+  "app.cuenta.inicio.saludo": "¡Hola {nombre}!",
+  "app.cuenta.inicio.sub_saludo": "Desde aquí puede configurar sus datos y preferencias de usuario.",
+  "app.cuenta.inicio.datos_usuario": "Datos de usuario",
+  "app.cuenta.inicio.sub_datos_usuario": "Edite su contraseña, número telefónico...",
+  "app.cuenta.inicio.datos_personales": "Datos personales/empresariales",
+  "app.cuenta.inicio.sub_datos_personales": "Edite su nombre o RUC...",
+  "app.cuenta.inicio.datos_facturacion": "Datos de Facturación",
+  "app.cuenta.inicio.sub_datos_facturacion": "Edite sus datos fiscales",
+  "app.cuenta.inicio.preferencias_usuarios": "Preferencias de Usuario",
+  "app.cuenta.inicio.sub_preferencias_usuarios": "Configure notificaciones y preferencias",
+
+  "app.cuenta.datos_usuario.titulo":"Datos de usuario",
+  "app.cuenta.datos_usuario.sub_titulo":"Desde aquí puede cambiar la información como usuario.",
+  "app.cuenta.datos_usuario.label_nombre":"Nombre",
+  "app.cuenta.datos_usuario.label_apellido":"Apellido",
+  "app.cuenta.datos_usuario.label_num_telefono":"Número de teléfono",
+  "app.cuenta.datos_usuario.label_email":"Correo electrónico",
+  "app.cuenta.datos_usuario.btn_contrasenia":"Cambiar contraseña",
+
+  "app.cuenta.preferencias.titulo":"Preferencias de Usuario",
+  "app.cuenta.preferencias.notificacion_servicios":"¿Desea recibir notificaciones sobre nuestros nuevos servicios?",
+  "app.cuenta.preferencias.notificacion_promociones":"¿Desea recibir notificaciones sobre nuestras promociones?",
+  "app.cuenta.preferencias.lenguaje":"Seleccione el idioma",
+
+  "app.cotizacion.TipoCarga.titulo": "1. Escoja el tipo de carga",
+  "app.cotizacion.TipoCarga.subtitulo":"1. 1. Escoja el tipo de {carga}",
+  "app.cotizacion.TipoCarga.contenedor": "Contenedor",
+  "app.cotizacion.TipoCarga.cargaSuelta": "Carga Suelta",
+  "app.cotizacion.TipoCarga.grua": "Gruas",
+  "app.cotizacion.TipoCarga.extrapesados": "Extrapesados",
+  "app.cotizacion.TipoCarga.maquinaria": "Maquinaria",
+  "app.cotizacion.TipoCarga.recurrente": "Recurrente",
+  "app.cotizacion.TipoCarga.mudanza": "Mudanzas",
+  "app.cotizacion.TipoCarga.cajas": "Cajas",
+  "app.cotizacion.TipoCarga.palet": "Pallets",
+  "app.cotizacion.TipoCarga.general": "General/Break Bulk",
+  "app.cotizacion.TipoCarga.bulk": "Granel/Bulk",
+  "app.cotizacion.TipoCarga.cantera": "Cantera",
+  "app.cotizacion.TipoCarga.materiales": "Materiales",
+  "app.cotizacion.TipoCarga.transferencias": "Transferencias",
+  "app.cotizacion.TipoCarga.excavaciones": "Excavaciones",
+
+
+  "app.cotizacion.TipoServicio.titulo": "2. Escoja el tipo de Servicio",
+  "app.cotizacion.TipoServicio.tipoServicio": "Tipo servicio",
+  "app.cotizacion.TipoServicio.continuar": "Continuar",
+
+
+  "app.cotizacion.Trayectoria.titulo": "3. Escoja el trayecto de su carga",
+  "app.cotizacion.Trayectoria.continuar": "Continuar",
+  "app.cotizacion.Trayectoria.origen": "Origen del envio",
+  "app.cotizacion.Trayectoria.destino": "Destino del envio",
+  "app.cotizacion.Trayectoria.buscar": "Buscar",
+
+  "app.metodo_pago.datostarjeta.titulo": "Tarjeta Credito"
+
+}
